@@ -1,6 +1,17 @@
 Tutorial video:
+
+Part 1:
+======
 Spherical Robot with Turret in Blender - Part 1/2 - Beginner Tutorial
 https://www.youtube.com/watch?v=ram-057hlx4&t=50s
-Stop at: 16:30
+Stop at: Completed
+
+Part 2:
+======
+Material Creation and Rendering Tutorial - Spherical Robot with Turret - Part 2/2
+https://www.youtube.com/watch?v=8ew7VzT_3Ck
+Stop at: 0:00
+
+
 
 
